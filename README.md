@@ -77,3 +77,5 @@ Reduce failed transactions — 17% failure rate is too high, investigate technic
 Focus on North and West regions — highest transaction volumes, need more resources
 Promote UPI — already the top channel, further investment will increase digital adoption
 Monitor reversed transactions — 8% reversal rate needs process improvement
+
+https://github.com/ThaherNayeem/Amazon-Sales-Analysis-Excel-Dashboard/blob/main/Dashboard.png.png
